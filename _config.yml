@@ -118,11 +118,11 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 
-    repo: 
+    owner: fireservice
+    repo: xcomment
     oauth:
-        client_id: 
-        client_secret: 
+        client_id: 0822a0b27c4986a8b9e4
+        client_secret: bdb049fb51d0a5f5fb6a905bd57d2ce7ea95fefb
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: fireservice
