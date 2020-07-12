@@ -126,7 +126,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: fireservice
-    repo: blog-comments
+    repo: fireservice
     clientID: 0822a0b27c4986a8b9e4
     clientSecret: bdb049fb51d0a5f5fb6a905bd57d2ce7ea95fefb
 # 在使用其它评论组件时可点击显示 Disqus
