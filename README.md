@@ -1,6 +1,6 @@
-# 码志
+# Fire Service X
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的博客：<https://fireservice.github.io/>
 
 ## 概览
 
@@ -17,21 +17,15 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://fireservice.github.io/)**
 
 ![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
 
 ## Fork 指南
 
-Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
-
 1. 正确设置项目名称与分支。
 
    按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的 master 分支，或者其它名称的项目的 gh-pages 分支可以自动生成 GitHub Pages 页面。
-
-2. 修改域名。
-
-   如果你需要绑定自己的域名，那么修改 CNAME 文件的内容；如果不需要绑定自己的域名，那么删掉 CNAME 文件。
 
 3. 修改配置。
 
@@ -64,31 +58,9 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 * 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
 
-* 简约，尽量每个页面都不展示多余的内容。
-
-* 有时一图抵千言，有时可能只会拖慢网页加载速度。
-
-* 言之有物，不做无痛之呻吟。
-
-* 如果写技术文章，那先将技术原理完全理清了再开始写，一边摸索技术一边组织文章效率较低。
-
-* 杜绝难断句、难理解的长句子，如果不能将其拆分成几个简洁的短句，说明脑中的理解并不清晰。
-
-* 可以学习一下那些高质量的博主，他们的行文，内容组织方式，有什么值得借鉴的地方。
-
 ## 联系我
 
-如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/mzlogin/mzlogin.github.io/issues) 或者微信公众号「闷骚的程序员」与我取得联系。
-
 <img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
-
-## 致谢
-
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
-
-Thanks for JetBrains' support.
-
-<a href="https://www.jetbrains.com/?from=mzlogin.github.io"><img src="./assets/images/jetbrains.svg"/></a>
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
