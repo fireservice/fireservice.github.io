@@ -19,7 +19,7 @@
 
 1. 相关网站。
 
-   * \[慧聪网](http://www.fire.hc360.com/)。
+   * \[慧聪网][1]。
 
 - 预览效果 [Setting up your Pages site locally with Jekyll][2]。
 
@@ -29,4 +29,5 @@
 
 <img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
 
+[1]: http://www.fire.hc360.com/
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
