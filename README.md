@@ -15,7 +15,7 @@
 
 **[在线预览 &rarr;](https://fireservice.github.io/)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://fireservice.github.io/assets/images/home.png)
 
 1. 相关网站。
 
@@ -27,7 +27,7 @@
 
 ## 联系我
 
-<img width="192px" height="192px" src="https://mazhuang.org/assets/images/qrcode.jpg"/>
+<img width="192px" height="192px" src="https://fireservice.github.io/assets/images/qrcode.jpg"/>
 
 [1]: http://www.fire.hc360.com/
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
