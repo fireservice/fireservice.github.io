@@ -4,8 +4,8 @@
 baseurl:
 url: https://fireservice.github.io/
 date_format: "ordinal"
-title: fireservice
-subtitle: "Fire Service X"
+title: Fire Service X
+subtitle: "X's blog"
 description: "Fire Service X"
 keywords: Fire, Service, X
 timezone: Asia/Shanghai
@@ -38,7 +38,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: FX
+author: X
 organization: 
 organization_url: 
 github_username: fireservice
