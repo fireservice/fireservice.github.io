@@ -19,7 +19,7 @@
 
 1. 相关网站。
 
-   * \[慧聪网][1]。
+   * [慧聪网][1]。
 
 - 预览效果 [Setting up your Pages site locally with Jekyll][2]。
 
