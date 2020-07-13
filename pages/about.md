@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: Fire Service X's blog
+keywords: 智能, 消防
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
+聚精会神搞建设，一心一意谋发展。
 
 坚信熟能生巧，努力改变人生。
 
