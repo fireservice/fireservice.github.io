@@ -1,17 +1,17 @@
-- sitename: GitHub
-  name: fireservice
-  url: https://github.com/fireservice
+- sitename: home
+  name: tfri
+  url: http://www.tfri.com.cn/manage/html/index.html
 
-- sitename: Blog
-  name: fireservice
-  url: https://fireservice.github.io
+- sitename: bilibili
+  name: TFRI
+  url: https://space.bilibili.com/1981797400/dynamic
 
-- sitename: Weibo
-  name: lonely-satellite
-  url: https://weibo.com/3201820992
+- sitename: weibo
+  name: tfri119
+  url: https://weibo.com/tfri119
 
-- sitename: Zhihu
-  name: xfire
-  url: https://www.zhihu.com/people/zen-9-80
+- sitename: douyin
+  name: TJXFYJS119
+  url: https://www.douyin.com/user/MS4wLjABAAAA7inn5nknDqo0bpPQ8NRJ43Mlqxqw1p4vREhL6h_FFIeTLDbmbEIwz3pa8OuQYXcr
 
 
