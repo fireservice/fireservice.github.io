@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Fire Service X's blog
+description: Fire Service's blog
 keywords: 智能, 消防
 comments: true
 menu: 关于
