@@ -1,20 +1,48 @@
-- name: AR新世界
-  url: http://www.ar-world.cn/
+- name: 消防科技信息网
+  url: https://xfkj.119.gov.cn/#/
   src: life
 
-- name: 映维网
-  url: https://yivian.com/
+- name: 慧聪消防网
+  url: http://www.fire.hc360.com/
   src: life
 
-- name: AR中国
-  url: http://www.arinchina.com/
+- name: 救援装备网
+  url: http://www.chinajyzb.com.cn/
   src: life
 
-- name: D.W's Notes
-  url: https://www.csuldw.com/
+- name: 广东消防救援总队
+  url: http://gdfire.gd.gov.cn/
+  src: life
+
+- name: 国家减灾网
+  url: http://www.ndrcc.org.cn/
+  src: life
+
+- name: 应急管理部
+  url: https://www.mem.gov.cn/
+  src: life
+
+- name: 中国长安网
+  url: http://www.chinapeace.gov.cn/
+  src: life
+
+- name: 中国科技网
+  url: http://www.stdaily.com/
+  src: life
+
+- name: 日本消防设备安全中心
+  url: http://www.fesc.or.jp/
   src: www
 
-- name: 工设里世界
-  url: https://www.gongyesheji.org/
+- name: 美国消防协会
+  url: https://www.nfpa.org/
+  src: www
+
+- name: 瑞典RISE
+  url: https://www.ri.se/en
+  src: www
+
+- name: 芬兰VTT
+  url: https://www.vttresearch.com/en
   src: www
 
